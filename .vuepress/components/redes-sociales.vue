@@ -2,7 +2,7 @@
 <div>
   <hr style="border:0.1px;">
   <p class="botones">Nuestras redes:</p>
-  <div class="container mt-4">
+  <div class="container mt-4 pt-0">
     <div class="row justify-content-center my-3">
       <div class="botones col-sm-6">
         <a role="button" class="btn btn-primary" style="background-color: #3b5998;" href="http://facebok.com" target="_blank">
