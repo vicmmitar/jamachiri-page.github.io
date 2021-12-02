@@ -13,3 +13,4 @@ features:
 - title: Un solo nivel
   details: El juego solo dispone de un nivel, de momento, en el cual a medida que se avanza la dificultad aumenta.
 ---
+<redes-sociales/>
