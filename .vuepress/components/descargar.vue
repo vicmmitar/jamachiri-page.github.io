@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container pt-0">
     <!-- <div v-if="getSO() == 'Linux' && !todosOpciones" class="d-flex justify-content-center">
       <div class="card text-center" style="width: 18rem">
         <img

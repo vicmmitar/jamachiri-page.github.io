@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container pt-0">
     <div class="row justify-content-center">
       <div
           v-for="image in images"
