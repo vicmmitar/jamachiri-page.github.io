@@ -10,7 +10,7 @@ export default {
   data(){
       return{
           Trailer: "Video AR Como lo hice",
-          dir: "https://www.youtube.com/embed/abdgyI0cVgA"
+          dir: "https://www.youtube.com/embed/dErTB2AtbZI"
       }
   }
 
