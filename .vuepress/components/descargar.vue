@@ -66,7 +66,7 @@
     <div v-if="todosOpciones" class="d-flex justify-content-center">
       <div class="card text-center" style="width: 18rem">
         <img
-          src="/img/Linux_logo.jpg"
+          src="/img/descargar.jpg"
           class="card-img-top w-50 mx-auto"
           alt="Linux logo"
         />

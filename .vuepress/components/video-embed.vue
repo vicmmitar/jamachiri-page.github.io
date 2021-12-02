@@ -1,12 +1,15 @@
 <template>
   <div class="container">
-    <iframe class="responsive-iframe" title="Juego" src="https://vicmmitar.github.io/jamachiri.github.io/" frameborder="0" allowfullscreen></iframe>
+    <iframe class="responsive-iframe" :title="titulo" :src="url"></iframe>
   </div>
 </template>
 
 <script>
 export default {
-
+    props: {
+        url: String,
+        titulo: String,
+    }
 }
 </script>
 

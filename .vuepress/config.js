@@ -43,6 +43,10 @@ module.exports = {
         link: '/galeria/'
       },
       {
+        text: 'Realidad Aumentada',
+        link: '/ar/'
+      },
+      {
         text: 'Descargas',
         link: '/descargas/'
       },
@@ -62,6 +66,17 @@ module.exports = {
             'mecanicas',
             'personajes',
             'escenarios',
+          ]
+        }
+      ],
+      '/ar/': [
+        {
+          title: 'AR',
+          collapsable: false,
+          children: [
+            '',
+            'experiencia-ar',
+            'comolohice',
           ]
         }
       ],
